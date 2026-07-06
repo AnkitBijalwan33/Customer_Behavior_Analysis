@@ -42,5 +42,4 @@ Built interactive dimensional filters allowing stakeholders to drill down by Gen
 Utilized Gamma AI to generate a clean, executive-level corporate presentation summarizing key findings for business leadership.
 
 📊 Dashboard Snapshot
-![Customer Behavior Dashboard.pbix](dashboard.png)
-
+![Customer Behavior Dashboard](Customer_Behavior_Dashboard.png)
