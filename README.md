@@ -1,8 +1,10 @@
 📊 Customer Shopping Behavior Analysis
+
 📝 Overview
 An end-to-end data analytics project that builds a robust data pipeline to transform raw, unstructured transactional data into strategic business insights. The project covers data ingestion, automated database pipeline creation, advanced SQL analytics, and interactive dashboard modeling to optimize store performance and subscription strategies.
 
 📅 Dataset
+
 The project analyzes a retail dataset containing 3,900 transactions across multiple consumer features:
 
 Size: 3,900 rows and 18 columns.
@@ -10,6 +12,7 @@ Size: 3,900 rows and 18 columns.
 Key Features: Customer ID, Age, Gender, Item Purchased, Category, Purchase Amount (USD), Location, Size, Color, Season, Review Rating, Subscription Status, Shipping Type, Discount Applied, Promo Code Used, Previous Purchases, Payment Method, and Frequency of Purchases.
 
 🛠️ Tools & Technologies Used
+
 Data Cleaning & EDA: Python (Pandas, NumPy, Matplotlib, Seaborn)
 
 Database & Pipelines: MySQL Workbench / PostgreSQL (sqlalchemy & pymysql)
@@ -19,6 +22,7 @@ Data Visualization & Modeling: Power BI Desktop (DAX Modeling)
 Presentation & Reporting: Gamma AI
 
 🏃‍♂️ Project Architecture & Steps
+
 1. Data Cleaning & Feature Engineering (Python)
 Handled missing values using statistical techniques (Median Imputation for Review Rating).
 
